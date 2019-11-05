@@ -1,0 +1,56 @@
+Open    Save    Rec    	Play    Prefs (Preferences) 
+Apri	Salva	Regisra	Esegui	Preferenze (Preferenze)
+  
+  
+Play Speed: Fast, Slow, Original
+Velocità di esecuzione: Veloce, Lento, Originale
+
+Set Custom Speed
+Imposta Velocità 
+
+Continuous Playback
+Riproduzione continua
+
+Set Repeat Count
+Imposta contatore di ripetizione
+
+Recording Hotkey
+Hotkey di registrazione
+("Hotkey" could be translated in "scorciatoia da tastiera", but it's a bit long...)
+
+Playback Key
+Hotkey di riproduzione
+
+Automate / Automation
+Automatizzare / Automazione
+(Verb / Noun)
+
+Actions
+Azioni
+  
+Edit Script & Events
+Modifica Script & Eventi
+
+Trigger / Activation
+Innesco / Attivazione
+
+Print Screen
+Stampa schermo
+
+Always on Top
+Sempre in primo piano
+
+Use Custom Toolbar
+Usa barra degli strumenti personalizzata
+
+Use Default Toolbar
+Usa barra degli strumenti predefinita
+
+TinyTask Website
+Sito weeb di TinyTask
+
+About TinyTask
+Informazioni su TinyTask 
+
+Number of Playback Loops. Playback Speed Multiplier. Nothing Recorded. Press the blue button to start a new recording. Tools - Options - Configuration. Copyright © 2019, All Rights Reserved. If you like this software, please keep it alive by donating at the website above. Thank You!
+Numero di cicli di riproduzione. Moltiplicatore della velocità di riproduzione. Premi il bottone blu per iniziare una nuova registrazione. Strumenti - Opzioni - Configurazione. Copyright © 2019, tutti i diritti riservati. Se ti piace questo programma, mantienilo in vita con una donazione al sito web qui sopra. Grazie mille!
