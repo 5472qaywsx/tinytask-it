@@ -53,5 +53,26 @@ Sito web di TinyTask
 About TinyTask
 Informazioni su TinyTask 
 
-Number of Playback Loops. Playback Speed Multiplier. Nothing Recorded. Press the blue button to start a new recording. Tools - Options - Configuration. Copyright © 2019, All Rights Reserved. If you like this software, please keep it alive by donating at the website above. Thank You!
-Numero di cicli di riproduzione. Moltiplicatore della velocità di riproduzione. Premi il bottone blu per iniziare una nuova registrazione. Strumenti - Opzioni - Configurazione. Copyright © 2019, tutti i diritti riservati. Se ti piace questo programma, mantienilo in vita con una donazione al sito web qui sopra. Grazie mille!
+Number of Playback Loops.
+Numero di cicli di riproduzione.
+
+Playback Speed Multiplier.
+Moltiplicatore della velocità di riproduzione.
+
+Nothing Recorded.
+Nessuna registrazione.
+
+Press the blue button to start a new recording.
+Premi il bottone blu per iniziare una nuova registrazione.
+
+Tools - Options - Configuration.
+Strumenti - Opzioni - Configurazione.
+
+Copyright © 2019, All Rights Reserved.
+Copyright © 2019, tutti i diritti riservati.
+
+If you like this software, please keep it alive by donating at the website above. Thank You!
+Se ti piace questo programma, mantienilo in vita con una donazione al sito web qui sopra. Grazie mille!
+
+Built on date 
+Data di creazione del programma 
