@@ -1,5 +1,5 @@
-Open    Save    Rec    	Play    Prefs (Preferences) 
-Apri	Salva	Regisra	Esegui	Preferenze (Preferenze)
+Open    Save    Rec    	  Play    Prefs (Preferences) 
+Apri	  Salva	  Registra	Esegui	Preferenze (Preferenze)
   
   
 Play Speed: Fast, Slow, Original
@@ -16,10 +16,11 @@ Imposta contatore di ripetizione
 
 Recording Hotkey
 Hotkey di registrazione
-("Hotkey" could be translated in "scorciatoia da tastiera", but it's a bit long...)
+("Hotkey" could be translated in "Scorciatoia da tastiera", but it's a bit long...)
 
 Playback Key
 Hotkey di riproduzione
+("Hotkey" could be translated in "Scorciatoia da tastiera", but it's a bit long...)
 
 Automate / Automation
 Automatizzare / Automazione
@@ -47,7 +48,7 @@ Use Default Toolbar
 Usa barra degli strumenti predefinita
 
 TinyTask Website
-Sito weeb di TinyTask
+Sito web di TinyTask
 
 About TinyTask
 Informazioni su TinyTask 
