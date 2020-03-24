@@ -1,3 +1,5 @@
+(text in parenthesys is a comment, not a translation)
+
 Open    Save    Rec    	  Play    Prefs (Preferences) 
 Apri	  Salva	  Registra	Esegui	Preferenze (Preferenze)
   
@@ -6,7 +8,7 @@ Play Speed: Fast, Slow, Original
 Velocità di esecuzione: Veloce, Lento, Originale
 
 Set Custom Speed
-Imposta Velocità 
+Imposta velocità 
 
 Continuous Playback
 Riproduzione continua
